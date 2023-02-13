@@ -1,4 +1,4 @@
-module github.com/tayjaf/myPortfolio
+module github.com/tayjaf/cv
 
 go 1.19
 
